@@ -19,4 +19,4 @@ all: pdf
 pdf: $(PDOUTPUTS)
 
 clean:
-	rm -rf ../pdf
+	rm -f ../pdf/*.pdf
