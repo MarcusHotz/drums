@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+if ! tmux has-session -t drumscores; then
+tmux new -s drumscores -d 
+	tmux send-keys -t drumscores:1 vim Enter
+	tmux split-window -t drumscores:1 -h
+	tmux resize-pane -R 20
+fi
+tmux attach -t drumscores
