@@ -15,6 +15,6 @@ date: 2020-01-21
 # Drumlessons
 
 - [3 Rudiments](./md/20200121_3-rudiments.md)
-- [Doubleparadiddle](.md/20200123_doubleparadiddle.md)
+- [Doubleparadiddle](./md/20200123_doubleparadiddle.md)
 
 
