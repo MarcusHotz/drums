@@ -16,5 +16,6 @@ date: 2020-01-21
 
 - [3 Rudiments](./md/20200121_3-rudiments.md)
 - [Doubleparadiddle](./md/20200123_doubleparadiddle.md)
+- [5 Fill Stickings](./md/20200123_5-fill-stickings.md)
 
 
