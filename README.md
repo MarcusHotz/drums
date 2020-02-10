@@ -18,4 +18,5 @@ date: 2020-01-21
 - [Doubleparadiddle](./md/20200123_doubleparadiddle.md)
 - [5 Fill Stickings](./md/20200208_5-fill-stickings.md)
 
-
+# Tuning Tips
+- [Tuning Tips](./md/20200210_tom-tuning.md)
