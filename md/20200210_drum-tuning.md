@@ -87,11 +87,11 @@ Fundamental intervall: __perfect 4th__
 
 Batter to Reso intervall: __perfect 5th__
 
-| Fundamental | Batter Lug  | Reso Lug    |
-| ----------- | ----------- | ----------- |
-| F      43Hz | D      64Hz | G      96Hz | 20"
-| E      41Hz | Db     61Hz | Gb     91Hz | 20" - 22"
-| Eb     39Hz | C      58Hz | F      87Hz | 22"     
-| D      37Hz | B      55Hz | E      82Hz | 22" - 24"
+| Size        | Fundamental | Batter Lug  | Reso Lug    |
+| ------------| ----------- | ----------- | ----------- |
+| 20"         | F      43Hz | C      64Hz | G      96Hz |
+| 20" - 22"   | E      41Hz | B      61Hz | Gb     91Hz |
+| 22"         | Eb     39Hz | Bb     58Hz | F      87Hz |
+| 22" - 24"   | D      37Hz | A      55Hz | E      82Hz |
 
 
