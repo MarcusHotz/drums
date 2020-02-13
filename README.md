@@ -19,4 +19,4 @@ date: 2020-01-21
 - [5 Fill Stickings](./md/20200208_5-fill-stickings.md)
 
 # Tuning Tips
-- [Tuning Tips](./md/20200210_tom-tuning.md)
+- [Tuning Tips](./md/20200210_drum-tuning.md)
