@@ -27,12 +27,12 @@ Batter to Reso intervall: __minor 3rd__
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
-|  10"     | D     146Hz | Hz | Hz |
-|  12"     | A     110Hz | Hz | Hz |
-|  14"     | D      73Hz | Hz | Hz |
-|  16"     | A      55Hz | Hz | Hz |
+|  10"     | D     146Hz |      231Hz* |      277Hz* |
+|  12"     | A     110Hz |      173Hz* |      208Hz* |
+|  14"     | D      73Hz |      116Hz* |      139Hz* |
+|  16"     | A      55Hz |       87Hz* |      104Hz* |
 
-
+\* values may be slightly too _low_
 
 # Toms
 ## Major 3rd
@@ -44,21 +44,25 @@ Batter to Reso intervall: __minor 3rd__
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
-|  10"     | E     164Hz | C     262Hz | Eb    311Hz |
-|  12"     | C     131Hz | G     196Hz | B     247Hz |
-|  14"     | Ab    104Hz | E     165Hz | G     196Hz |
-|  16"     | E      82Hz | C     131Hz | Eb    158Hz |
+|  10"     | E     164Hz | C    260Hz* | Eb    311Hz |
+|  12"     | C     131Hz | G    205Hz* | B     247Hz |
+|  14"     | Ab    104Hz | E    164Hz* | G     196Hz |
+|  16"     | E      82Hz | C    130Hz* | Eb    156Hz |
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
-|  10"     | D     146Hz | Bb    233Hz | Db    277Hz |
-|  12"     | Bb    110Hz | Gb    185Hz | A     220Hz |
-|  14"     | Gb     92Hz | D     147Hz | F     175Hz |
-|  16"     | D      73Hz | Bb    123Hz | Db    139Hz |
+|  10"     | D     146Hz | Bb   231Hz* | Db    277Hz |
+|  12"     | Bb    110Hz | Gb   184Hz* | A     220Hz |
+|  14"     | Gb     92Hz | D    146Hz* | F     175Hz |
+|  16"     | D      73Hz | Bb   116Hz* | Db    139Hz |
+
+\*values might be slightly too _low_
 
 ### Low resonace
 
 Fundamental intervall: __major 3rd__
+
+Batter to Reso intervall: __perfect 4th__
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
@@ -72,7 +76,7 @@ Fundamental intervall: __major 3rd__
 | -------- | ----------- | ----------- | ----------- |
 |  10"     | D     146Hz |       220Hz |       290Hz |
 |  12"     | Bb    116Hz |       175Hz |       230Hz |
-|  14"     | Gb     92Hz |        139z |       182Hz |
+|  14"     | Gb     92Hz |       139Hz |       182Hz |
 |  16"     | D      73Hz |       110Hz |       145Hz |
 
 ## Perfect 4th
@@ -84,36 +88,38 @@ Batter to Reso intervall: __minor 3rd__
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
-|  10"     | E     164Hz | Hz | Hz |
-|  12"     | B     124Hz | Hz | Hz |
-|  14"     | Gb     92Hz | Hz | Hz |
-|  16"     | Db     69Hz | Hz | Hz |
+|  10"     | E     164Hz |       259Hz |       311Hz |
+|  12"     | B     124Hz |       194Hz |       233Hz |
+|  14"     | Gb     92Hz |       146Hz |       175Hz |
+|  16"     | Db     69Hz |       109Hz |       131Hz |
 
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
-|  10"     | D     146Hz | Bb    233Hz | Db    277Hz |
-|  12"     | A     110Hz | F     175Hz | Ab    208Hz |
-|  14"     | E      82Hz | C     131Hz | Eb    158Hz |
-|  16"     | B      62Hz | G      98Hz | Bb    118Hz |
+|  10"     | D     146Hz |       233Hz |       277Hz |
+|  12"     | A     110Hz |       175Hz |       208Hz |
+|  14"     | E      82Hz |       131Hz |       158Hz |
+|  16"     | B      62Hz |        98Hz |       118Hz |
 
 ### Low resonace
 
 Fundamental intervall: __perfect 4th__
 
-| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
-| -------- | ----------- | ----------- | ----------- |
-|  10"     | C     130Hz | Hz | Hz |
-|  12"     | G      98Hz | Hz | Hz |
-|  14"     | D      74Hz | Hz | Hz |
-|  16"     | A      55Hz | Hz | Hz |
+Batter to Reso intervall: __perfect 4th__
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
-|  10"     | D     146Hz |       220Hz |       290Hz |
-|  12"     | A     110Hz |       165Hz |       217Hz |
-|  14"     | E      82Hz |       124Hz |       163Hz |
-|  16"     | B      62Hz |        93Hz |       122Hz |
+|  10"     | C     130Hz |       194Hz |       259Hz |
+|  12"     | G      98Hz |       146Hz |       194Hz |
+|  14"     | D      74Hz |       109Hz |       145Hz |
+|  16"     | A      55Hz |        82Hz |       109Hz |
+
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  10"     | D     146Hz |       218Hz |       291Hz |
+|  12"     | A     110Hz |       163Hz |       218Hz |
+|  14"     | E      82Hz |       122Hz |       163Hz |
+|  16"     | B      62Hz |        92Hz |       122Hz |
 
 # Bass Drum
 
@@ -121,9 +127,9 @@ Batter to Reso intervall: __perfect 5th__
 
 | Size        | Fundamental | Batter Lug  | Reso Lug    |
 | ------------| ----------- | ----------- | ----------- |
-| 20"         | F      43Hz | C      64Hz | G      96Hz |
-| 20" - 22"   | E      41Hz | B      61Hz | Gb     91Hz |
-| 22"         | Eb     39Hz | Bb     58Hz | F      87Hz |
-| 22" - 24"   | D      37Hz | A      55Hz | E      82Hz |
+| 20"         | F      43Hz |        61Hz |        91Hz |
+| 20" - 22"   | E      41Hz |        57Hz |        86Hz |
+| 22"         | Eb     39Hz |        54Hz |        81Hz |
+| 22" - 24"   | D      37Hz |        51Hz |        76Hz |
 
 
