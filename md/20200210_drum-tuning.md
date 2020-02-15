@@ -71,7 +71,8 @@ Batter to Reso intervall: __minor 3rd__
 
 \*values might be slightly too _low_
 
-/* Yamaha Maple Custom Absolute
+\* Yamaha Maple Custom Absolute
+
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
 |  10"     | B     124Hz |       194Hz |       233Hz |
@@ -93,7 +94,8 @@ Batter to Reso intervall: __perfect 4th__
 |  16"     | D      73Hz |       110Hz |       145Hz |
 
 
-/* Yamaha Maple Custom Absolute (10" 12" 14" 16")
+\* Yamaha Maple Custom Absolute (10" 12" 14" 16")
+
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
 |  10"     | B     124Hz |       183Hz |       244Hz |
