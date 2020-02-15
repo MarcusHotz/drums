@@ -1,3 +1,24 @@
+
+# Tuning Ranges
+
+## Tom
+
+![Tom](images/20200210_tuning-ranges-tom.png)
+
+## Floortom
+
+![Floortom](images/20200210_tuning-ranges-floortom.png)
+
+## Kick 
+
+![Kick](images/20200210_tuning-ranges-kick.png)
+
+## Snare
+
+![Snare](images/20200210_tuning-ranges-snare.png)
+
+
+
 # Toms
 ## Vinnie, Dave,...
 
@@ -50,6 +71,14 @@ Batter to Reso intervall: __minor 3rd__
 
 \*values might be slightly too _low_
 
+/* Yamaha Maple Custom Absolute
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  10"     | B     124Hz |       194Hz |       233Hz |
+|  12"     | G      98Hz |       154Hz |       185Hz |
+|  14"     | Eb     78Hz |       123Hz |       147Hz |
+|  16"     | B      62Hz |        97Hz |       117Hz |
+
 ### Low resonace
 
 Fundamental intervall: __major 3rd__
@@ -62,6 +91,15 @@ Batter to Reso intervall: __perfect 4th__
 |  12"     | Bb    116Hz |       175Hz |       230Hz |
 |  14"     | Gb     92Hz |       139Hz |       182Hz |
 |  16"     | D      73Hz |       110Hz |       145Hz |
+
+
+/* Yamaha Maple Custom Absolute (10" 12" 14" 16")
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  10"     | B     124Hz |       183Hz |       244Hz |
+|  12"     | G      98Hz |       146Hz |       194Hz |
+|  14"     | Eb     78Hz |       116Hz |       154Hz |
+|  16"     | B      62Hz |        92Hz |       123Hz |
 
 ## Perfect 4th
 ### Studio
@@ -86,6 +124,13 @@ Batter to Reso intervall: __minor 3rd__
 |  14"     | E      82Hz |       131Hz |       158Hz |
 |  16"     | B      62Hz |        98Hz |       118Hz |
 
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  10"     | C     130Hz |       206Hz |       247Hz |
+|  12"     | G      98Hz |       156Hz |       185Hz |
+|  14"     | D      74Hz |       116Hz |       139Hz |
+|  16"     | A      55Hz |        87Hz |       104Hz |
+
 ### Low resonace
 
 Fundamental intervall: __perfect 4th__
@@ -99,6 +144,7 @@ Batter to Reso intervall: __perfect 4th__
 |  14"     | E      82Hz |       122Hz |       163Hz |
 |  16"     | B      62Hz |        92Hz |       122Hz |
 
+/* Tama Starclassic (10" 12" 14")
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
 |  10"     | C     130Hz |       194Hz |       259Hz |
