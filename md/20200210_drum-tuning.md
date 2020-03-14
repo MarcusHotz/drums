@@ -166,6 +166,39 @@ Batter to Reso intervall: __perfect 4th__
 |  14" (1-)| D      74Hz |       109Hz |       145Hz |
 |  16" (2-)| A      55Hz |        82Hz |       109Hz |
 
+## Perfect 5th
+### Studio 
+
+Fundamental intervall: __perfect 5th__
+
+Batter to Reso intervall: __minor 3rd__
+
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  12" (2+)| B     124Hz |       194Hz |       233Hz |
+|  14" (1+)| E      82Hz |       131Hz |       158Hz |
+
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  12" (0 )| A     110Hz |       175Hz |       208Hz |
+|  14" (1-)| D      73Hz |       116Hz |       139Hz |
+
+### Low resonance
+
+Fundamental intervall: __perfect 5th__
+
+Batter to Reso intervall: __perfect 4th__
+
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  12" (2+)| B     124Hz |       183Hz |       244Hz |
+|  14" (1+)| E      82Hz |       122Hz |       163Hz |
+
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
+|  12" (0 )| A     110Hz |       163Hz |       218Hz |
+|  14" (1-)| D      74Hz |       109Hz |       145Hz |
+
 # Bass Drum
 
 Batter to Reso intervall: __perfect 5th__
