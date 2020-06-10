@@ -20,3 +20,6 @@ date: 2020-01-21
 
 # Tuning Tips
 - [Tuning Tips](./md/20200210_drum-tuning.md)
+
+# Microphones
+- [Gain,...](./md/20200610_mics-gain.md)

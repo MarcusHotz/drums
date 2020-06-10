@@ -178,6 +178,9 @@ Batter to Reso intervall: __minor 3rd__
 |  12" (2+)| B     124Hz |       194Hz |       233Hz |
 |  14" (1+)| E      82Hz |       131Hz |       158Hz |
 
+\* Sonor Vintage (12" 14")
+\* Tama Starclassic (12" 14")
+
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
 |  12" (0 )| A     110Hz |       175Hz |       208Hz |
@@ -193,6 +196,9 @@ Batter to Reso intervall: __perfect 4th__
 | -------- | ----------- | ----------- | ----------- |
 |  12" (2+)| B     124Hz |       183Hz |       244Hz |
 |  14" (1+)| E      82Hz |       122Hz |       163Hz |
+
+\* Sonor Vintage (12" 14")
+\* Tama Starclassic (12" 14")
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
