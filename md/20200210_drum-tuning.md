@@ -44,6 +44,7 @@ Tons of drummer use it.
 If you want a specific note as fundamental, go down a semitone for the batter and three more for the resonant (harmonic on higher octave).
 Might want to raise a bit the resonant for bigger toms and losen ist up for smaller ones, depending on the shell depth.
 
+Dave: Start with the highest tom between E-G usually F# 
 
 Fundamental intervall: __perfect 4th__ (B - E) __perfect 5th__ (E - B) 
 
