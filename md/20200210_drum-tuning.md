@@ -52,6 +52,14 @@ Batter to Reso intervall: __minor 3rd__
 
 | Tom Size | Fundamental | Batter Lug  | Reso Lug    |
 | -------- | ----------- | ----------- | ----------- |
+|  10" (5+)| F     175Hz | Db    277Hz | E     330Hz |
+|  12" (3+)| C     131Hz | Ab    208Hz | B     247Hz |
+|  14" (2+)| F      87Hz | Db    139Hz | E     165Hz |
+|  16" (0 )| C      65Hz | Ab    104Hz | B     123Hz |
+
+
+| Tom Size | Fundamental | Batter Lug  | Reso Lug    |
+| -------- | ----------- | ----------- | ----------- |
 |  10" (4+)| E     164Hz | C     262Hz | Eb    311Hz |
 |  12" (2+)| B     124Hz | G     196Hz | Bb    233Hz |
 |  14" (1+)| E      82Hz | C     131Hz | Eb    158Hz |
