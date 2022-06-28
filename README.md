@@ -25,4 +25,4 @@ date: 2020-01-21
 - [Gain,...](./md/20200610_mics-gain.md)
 
 # EQ
-- [Gain,...](./md/20220628_drums_eq.md)
+- [Drum EQ](./md/20220628_drums_eq.md)
